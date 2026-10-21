@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+seaborn
+pulp
+deap
+plotly
+pygmo  # only for experiments/hypervolume_greedy_selection.py
