@@ -1,4 +1,4 @@
-# Multicriteria Optimization & Decision Analysis
+# Pareto Optimization & Multi-Objective Bicycle Routing
 
 Two projects on multi-objective optimization in Python:
 
